@@ -1,0 +1,6 @@
+mujoco_menagerie/
+__pycache__/
+*.mp4
+!media/*.mp4
+*.png
+!media/*.png
